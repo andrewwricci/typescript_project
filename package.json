@@ -17,6 +17,7 @@
     "eslint-config-prettier": "^7.2.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.5.4",
+    "mysql": "^2.18.1",
     "prettier": "^2.2.1",
     "ts-loader": "^8.0.17",
     "typescript": "^4.1.5",
